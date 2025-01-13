@@ -1,0 +1,42 @@
+[
+  {
+    "dia": 1,
+    "invoicing": 0.0
+  },
+  {
+    "dia": 2,
+    "invoicing": 234.5
+  },
+  {
+    "dia": 3,
+    "invoicing": 345.6
+  },
+  {
+    "dia": 4,
+    "invoicing": 0.0
+  },
+  {
+    "dia": 5,
+    "invoicing": 678.9
+  },
+  {
+    "dia": 6,
+    "invoicing": 0.0
+  },
+  {
+    "dia": 7,
+    "invoicing": 0.0
+  },
+  {
+    "dia": 8,
+    "invoicing": 123.4
+  },
+  {
+    "dia": 9,
+    "invoicing": 456.7
+  },
+  {
+    "dia": 10,
+    "invoicing": 0.0
+  }
+]
