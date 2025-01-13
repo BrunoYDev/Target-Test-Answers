@@ -10,11 +10,11 @@ namespace Answers
     {
         static void Main(string[] args)
         {
-            //Sum();
-            //Fibonacci();
-            //Invoicing();
-            //InvoicingPercent();
-            //StringInverterReader();
+            Sum();
+            Fibonacci();
+            Invoicing();
+            InvoicingPercent();
+            StringInverterReader();
         }
 
         static void Sum()
