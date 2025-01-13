@@ -1,15 +1,15 @@
 [
   {
     "dia": 1,
-    "invoicing": 0.0
+    "invoicing": 22174.1664
   },
   {
     "dia": 2,
-    "invoicing": 234.5
+    "invoicing": 24537.6698
   },
   {
     "dia": 3,
-    "invoicing": 345.6
+    "invoicing": 26139.6134
   },
   {
     "dia": 4,
@@ -17,11 +17,11 @@
   },
   {
     "dia": 5,
-    "invoicing": 678.9
+    "invoicing": 0.0
   },
   {
     "dia": 6,
-    "invoicing": 0.0
+    "invoicing": 26742.6612
   },
   {
     "dia": 7,
@@ -29,14 +29,94 @@
   },
   {
     "dia": 8,
-    "invoicing": 123.4
+    "invoicing": 42889.2258
   },
   {
     "dia": 9,
-    "invoicing": 456.7
+    "invoicing": 46251.174
   },
   {
     "dia": 10,
+    "invoicing": 11191.4722
+  },
+  {
+    "dia": 11,
     "invoicing": 0.0
+  },
+  {
+    "dia": 12,
+    "invoicing": 0.0
+  },
+  {
+    "dia": 13,
+    "invoicing": 3847.4823
+  },
+  {
+    "dia": 14,
+    "invoicing": 373.7838
+  },
+  {
+    "dia": 15,
+    "invoicing": 2659.7563
+  },
+  {
+    "dia": 16,
+    "invoicing": 48924.2448
+  },
+  {
+    "dia": 17,
+    "invoicing": 18419.2614
+  },
+  {
+    "dia": 18,
+    "invoicing": 0.0
+  },
+  {
+    "dia": 19,
+    "invoicing": 0.0
+  },
+  {
+    "dia": 20,
+    "invoicing": 35240.1826
+  },
+  {
+    "dia": 21,
+    "invoicing": 43829.1667
+  },
+  {
+    "dia": 22,
+    "invoicing": 18235.6852
+  },
+  {
+    "dia": 23,
+    "invoicing": 4355.0662
+  },
+  {
+    "dia": 24,
+    "invoicing": 13327.1025
+  },
+  {
+    "dia": 25,
+    "invoicing": 0.0
+  },
+  {
+    "dia": 26,
+    "invoicing": 0.0
+  },
+  {
+    "dia": 27,
+    "invoicing": 25681.8318
+  },
+  {
+    "dia": 28,
+    "invoicing": 1718.1221
+  },
+  {
+    "dia": 29,
+    "invoicing": 13220.495
+  },
+  {
+    "dia": 30,
+    "invoicing": 8414.61
   }
 ]
